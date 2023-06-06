@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@400;600;700;800&display=swap');
+
+.st-logo {
+  width:50px;
+  padding-left:5px;
+  padding-top:5px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.title {
+  font-size:36px;
+  width:50%;
+}
+
+.body {
+  font-family: 'Source Code Pro', monospace;
+  padding-left:10px;
+  padding-top:50px;
+}
+
+.description {
+  font-family: 'Source Code Pro', monospace;
+  width:50%;
+}
+
+.link {
+  margin-top:50px;
+  margin-bottom:50px;
+  width:25%;
+}
+
+.image img {
+  object-fit: cover;
+  width: 250px;
+  height: 250px;
+}
+
+.unordered-list {
+  margin-top:75px;
+}
